@@ -1,4 +1,4 @@
-Partes: 
+![image](https://github.com/DiegoCastellucci/Castellucci_DiciembreFeli/assets/130660041/77eb1f98-a3cb-4d34-a398-a7a24a964f2a)Partes: 
 
 FrontEnd:
 -CSS:
@@ -76,16 +76,26 @@ El Lenguaje de Consulta Estructurada (SQL) es un lenguaje gestor para el manejo 
 El lenguaje de programación SQL no solo permite realizar operaciones de selección, inserción, actualización y eliminación de datos sino también operaciones administrativas sobre las bases de datos. Por tanto, se trata de un lenguaje completo de bases de datos que va más allá de la recuperación de la información.
 
 Investigar y desarrollar una explicación sobre Arquitectura de MicroServicios.
+
 La arquitectura de microservicios se refiere a una técnica que brinda a los desarrolladores modernos una forma de diseñar aplicaciones flexibles y altamente escalables al descomponer la aplicación en servicios discretos que implementan funciones comerciales específicas. Estos servicios, a los que a menudo se hace referencia como "de estructura flexible", se pueden construir, implementar y adaptar de forma independiente.
+
 Cada servicio se comunica con otros servicios, a través de interfaces de programación de aplicaciones (APIs) estandarizadas, lo que permite que los servicios se escriban en diferentes lenguajes o en diferentes tecnologías.
 Beneficios de una arquitectura de microservicios:
+
 -Los componentes de la aplicación se pueden construir en diferentes lenguajes de programación
+
 -Se pueden mantener los flujos individuales de desarrollo e implementación continuos
+
 -Se pueden construir aplicaciones extremadamente escalables
+
 -Es posible el uso de opciones de implementación de función como servicio nativas de la nube
+
 -Frecuentemente resultan en costos operativos más bajos
+
 -El aislamiento y la estructura flexible permiten actualizaciones y mejoras compartimentadas
+
 Cuando las personas comienzan a experimentar con microservicios, a menudo utilizan de forma predeterminada técnicas familiares, por ejemplo, RESTful API. REST opera en un tipo de comunicación de solicitud-respuesta. El problema con este enfoque sincronizado es que deberá esperar una respuesta; los servicios se vuelven dependientes unos de otros. Si un servicio se ejecuta más lento o no responde, significa que el servicio que lo llamó se ejecutará más lento o fallará. Este acoplamiento puede significar perder algunos de los beneficios de una arquitectura de microservicios, creando una estructura más interdependiente similar a un estilo de arquitectura orientada a servicios.
+
 
 
 
