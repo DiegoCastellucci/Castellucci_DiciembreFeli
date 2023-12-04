@@ -1,6 +1,8 @@
 Partes: 
+
 FrontEnd:
 -CSS:
+
 Es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se         encarga del contenido básico de los sitios. Con CSS, puedes crear reglas para decirle a tu sitio web cómo quieres mostrar la información y guardar los comandos              para elementos de estilo (como fuentes, colores, tamaños, etc.) separados de los que configuran el contenido.
 Además, puedes crear formatos específicos útiles para comunicar tus ideas y producir experiencias más agradables, en el aspecto visual, para los usuarios del sitio web.
 -HTML:
