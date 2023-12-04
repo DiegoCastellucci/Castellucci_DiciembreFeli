@@ -75,7 +75,7 @@ El http, como se ha dicho, es un lenguaje que media entre las peticiones del cli
 El Lenguaje de Consulta Estructurada (SQL) es un lenguaje gestor para el manejo de la información en las bases de datos relacionales. Este tipo de lenguaje de programación permite comunicarse con la base de datos y realizar operaciones de acceso y manipulación de la información almacenada.
 El lenguaje de programación SQL no solo permite realizar operaciones de selección, inserción, actualización y eliminación de datos sino también operaciones administrativas sobre las bases de datos. Por tanto, se trata de un lenguaje completo de bases de datos que va más allá de la recuperación de la información.
 
-Investigar y desarrollar una explicación sobre Arquitectura de MicroServicios.
+2_ Investigar y desarrollar una explicación sobre Arquitectura de MicroServicios.
 
 La arquitectura de microservicios se refiere a una técnica que brinda a los desarrolladores modernos una forma de diseñar aplicaciones flexibles y altamente escalables al descomponer la aplicación en servicios discretos que implementan funciones comerciales específicas. Estos servicios, a los que a menudo se hace referencia como "de estructura flexible", se pueden construir, implementar y adaptar de forma independiente.
 
