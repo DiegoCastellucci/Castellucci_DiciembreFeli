@@ -1,4 +1,4 @@
-![image](https://github.com/DiegoCastellucci/Castellucci_DiciembreFeli/assets/130660041/77eb1f98-a3cb-4d34-a398-a7a24a964f2a)Partes: 
+Partes: 
 
 FrontEnd:
 -CSS:
@@ -102,7 +102,7 @@ Beneficios de una arquitectura de microservicios:
 
 Cuando las personas comienzan a experimentar con microservicios, a menudo utilizan de forma predeterminada técnicas familiares, por ejemplo, RESTful API. REST opera en un tipo de comunicación de solicitud-respuesta. El problema con este enfoque sincronizado es que deberá esperar una respuesta; los servicios se vuelven dependientes unos de otros. Si un servicio se ejecuta más lento o no responde, significa que el servicio que lo llamó se ejecutará más lento o fallará. Este acoplamiento puede significar perder algunos de los beneficios de una arquitectura de microservicios, creando una estructura más interdependiente similar a un estilo de arquitectura orientada a servicios.
 
-
+![image](https://github.com/DiegoCastellucci/Castellucci_DiciembreFeli/assets/130660041/77eb1f98-a3cb-4d34-a398-a7a24a964f2a)
 
 
 
